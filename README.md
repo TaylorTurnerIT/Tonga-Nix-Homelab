@@ -17,7 +17,11 @@ The planned Virtual Machines and Containers include:
     - [Home-Assistant](https://github.com/home-assistant/core) ❌
     - [MinIO S3](https://github.com/minio/minio) ❌
     - [Huginn](https://github.com/huginn/huginn) ❌ 
-    - *Arr Suite ([Radarr](https://github.com/Radarr/Radarr), [Seerr](https://github.com/seerr-team/seerr), [Sonarr](https://github.com/Sonarr/Sonarr), [Prowlarr](https://github.com/Prowlarr/Prowlarr), [Bookshelf](https://github.com/bookshelf/bookshelf)) ❌
+    - *Arr Suite ([Radarr](https://github.com/Radarr/Radarr), [Seerr](https://github.com/seerr-team/seerr), [Sonarr](https://github.com/Sonarr/Sonarr), [Prowlarr](https://github.com/Prowlarr/Prowlarr), [Bookshelf](https://github.com/bookshelf/bookshelf), [qBitTorrent](https://github.com/qbittorrent/qBittorrent)) ❌
+    - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+    - [Authentik](https://goauthentik.io/)
+    - [Gaia](https://github.com/gaia-app/gaia)
+    - [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver)
 2. Public Containers
     - [Jellyfin](https://github.com/jellyfin/jellyfin) ❌
     - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ❌
@@ -25,3 +29,4 @@ The planned Virtual Machines and Containers include:
     - [Bar Assistant](https://github.com/karlomikus/bar-assistant) ❌
     - [Homebox](https://github.com/sysadminsmedia/homebox) ❌
     - [Immich](https://github.com/immich-app/immich)
+    - [JupyterLab](https://github.com/jupyterlab/jupyterlab)
