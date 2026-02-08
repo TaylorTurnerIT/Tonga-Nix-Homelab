@@ -9,7 +9,7 @@ Security is enforced using a multi-layered defense system.
 ## Virtual Machines
 Containers will be hosted exclusively through NixOS Virtual Machines. 
 The planned Virtual Machines and Containers include:
-1. Private Containers
+1. **Private Containers**
     - [Caddy](https://github.com/caddyserver/caddy) ❌
     - [Pi-hole](https://github.com/pi-hole/pi-hole) ❌
     - [Gitea](https://github.com/go-gitea/gitea) ❌
@@ -22,7 +22,7 @@ The planned Virtual Machines and Containers include:
     - [Authentik](https://goauthentik.io/) ❌
     - [Gaia](https://github.com/gaia-app/gaia) ❌
     - [Docker Mailserver](https://github.com/docker-mailserver/docker-mailserver) ❌
-2. Public Containers
+2. **Public Containers**
     - [Jellyfin](https://github.com/jellyfin/jellyfin) ❌
     - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ❌
     - [Homepage](https://github.com/prometheus) ❌
