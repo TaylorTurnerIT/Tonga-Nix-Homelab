@@ -1,4 +1,7 @@
+<img width="640" height="320" alt="TongaNix" src="https://github.com/user-attachments/assets/c9061a30-ab6f-4545-a166-49ca238116b0" />
+
 # Tonga Homelab
+
 This project is a purely declarative configuration designed to create NixOS virtual machines using OpenTofu. The majority of services that will run on this system will be Podman Quadlets with a focus on security.
 
 ## Security
